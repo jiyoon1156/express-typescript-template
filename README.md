@@ -1,6 +1,6 @@
-# stock-battle-server
+# BackEnd Template
 
-> A repository for orbits back-end
+> A repository for express-typescript-template
 
 ### How to run
 ```
